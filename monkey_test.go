@@ -1,12 +1,11 @@
 package monkey_test
 
 import (
+	"gnanasuriyan/monkey"
 	"reflect"
 	"runtime"
 	"testing"
 	"time"
-
-	"bou.ke/monkey"
 )
 
 func no() bool  { return false }

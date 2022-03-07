@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
+	"gnanasuriyan/monkey"
 	"os"
 	"strings"
-
-	"bou.ke/monkey"
 )
 
 func main() {
